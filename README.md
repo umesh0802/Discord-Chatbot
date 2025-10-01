@@ -41,7 +41,9 @@ discord-chatbot/
    cd discord-chatbot
 
 Here is some screenshot of the bot:
+
 <img width="712" height="214" alt="image" src="https://github.com/user-attachments/assets/628fec9d-03dc-4cb8-a074-19093bcda051" />
+
 <img width="1915" height="862" alt="Screenshot 2025-10-01 135803" src="https://github.com/user-attachments/assets/cfa57e16-456e-4d10-8a20-3ec716f17acc" />
 
 
